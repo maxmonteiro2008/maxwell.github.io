@@ -12,9 +12,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Pure Java project
+This is a JAVA simulator to calculate all possible logical topologies in a data center using the ringcrossbar architecture.
 
-
-![Image](https://github.com/maxmonteiro2008/ringcrossbar/blob/master/ring.png)
+![Image](/maxmonteiro2008/ringcrossbar/blob/master/ring.png)
 
 <img src="https://github.com/maxmonteiro2008/ringcrossbar/blob/master/ring.png" class="img-responsive" alt="">
 ## Web Front-end HTML5/CSS/BOOTSTRAP/JQUERY/JavaScript
