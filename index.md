@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Maxwell's Portfolio
 
 You can use the [editor on GitHub](https://github.com/maxmonteiro2008/maxwell.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Pure Java project
+
+
+
+
+## Web Front-end HTML5/CSS/BOOTSTRAP/JQUERY/JavaScript
+
+
+### Django Project
+
 
 - Bulleted
 - List
