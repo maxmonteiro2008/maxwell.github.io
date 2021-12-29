@@ -16,7 +16,7 @@ Syntax highlighted code block
 
 ![Image](https://github.com/maxmonteiro2008/ringcrossbar/blob/master/ring.png)
 
-
+<img src="https://github.com/maxmonteiro2008/ringcrossbar/blob/master/ring.png" class="img-responsive" alt="">
 ## Web Front-end HTML5/CSS/BOOTSTRAP/JQUERY/JavaScript
 
 
